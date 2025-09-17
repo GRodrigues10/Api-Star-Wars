@@ -183,7 +183,7 @@ app.put("/personagens/:id", async (req, res) => {
   return res.send(character);
 });
 
-const port = 4000;
-app.listen(port, () => {
-  console.log("Servidor Rodando!");
+const PORT = process.env.PORT || 4000;
+app.listen(PORT, () => {
+  console.log(`Servidor Rodando na porta ${PORT}!`);
 });

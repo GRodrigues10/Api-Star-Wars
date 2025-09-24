@@ -1,6 +1,6 @@
 # 🌌 Star Wars API  
 
-API criada com **Node.js + Express + MongoDB**, trazendo informações do universo Star Wars: **filmes, séries, documentários, jogos, conteúdos populares e personagens**.  
+API criada com **Node.js + Express + MongoDB**, trazendo informações do universo Star Wars: **filmes, séries, documentários e personagens**.  
 
 ---
 

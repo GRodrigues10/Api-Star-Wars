@@ -14,7 +14,7 @@ API criada com **Node.js + Express + MongoDB**, trazendo informações do univer
 ---
 
 ## 🌍 URL Base
-https://api-star-wars.onrender.com/
+https://api-star-wars-tl0s.onrender.com/
 
 
 ## 📂 Endpoints  

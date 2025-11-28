@@ -58,3 +58,10 @@ https://api-star-wars-tl0s.onrender.com/
   "year": 1977,
   "types": ["filme"]
 }
+
+
+```
+
+## 📌 Aviso de Direitos Autorais
+Todo o material referenciado neste projeto (filmes, séries, personagens, imagens, trailers etc.) pertence aos seus respectivos donos, como **Lucasfilm/Disney**.  
+Este projeto é **apenas para fins de estudo** e não possui finalidade comercial.
